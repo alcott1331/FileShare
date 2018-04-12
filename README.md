@@ -17,4 +17,6 @@ Second :
 - receive
 example -> java -jar ./ShareFile.jar receive --port 1313 --save-path ./downloads
 
+<img src="/Example.png"/>
+
 
